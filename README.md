@@ -1,3 +1,5 @@
+## No longer working since HNI-SCANTRAD changed site and download links
+
 # hni_downloader
 Webscrapper for HNI-SCANTRAD Hajime no Ippo Manga
 
